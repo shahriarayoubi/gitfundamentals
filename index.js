@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Optional: Add hover effect for the label
     dateLabel.addEventListener('mouseenter', function() {
         if (!this.classList.contains('updated')) {
-            this.style.borderColor = '#667eea';
+            this.style.borderColor = '#ff7b00';
         }
     });
     
